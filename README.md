@@ -32,7 +32,7 @@ Screenshots:
 
 ### Notifications lights
 
-**[Commits topic](https://review.lineageos.org/q/topic:"ten-network-traffic"+(status:open%20OR%20status:merged))**
+**[Commits topic](https://review.lineageos.org/q/topic:"ten-lights"+(status:open%20OR%20status:merged))**
 
 Screenshots:
 to_do: Add screenshots from los
@@ -40,14 +40,14 @@ to_do: Add screenshots from los
 ## Lockscreen: 
 
 ### Visualizer
-**[Commits topic (LineageOS)](https://review.lineageos.org/q/topic:"ten-network-traffic"+(status:open%20OR%20status:merged))**
+**[Commits topic (LineageOS)](https://review.lineageos.org/q/topic:%22ten-visualizer%22+(status:open%20OR%20status:merged))**
 
 **[Commits topic (AOSiP)](https://review.aosip.dev/q/topic:%22visualizer%22+(status:open%20OR%20status:merged))**
 
 Screenshots:
 ![](https://github.com/ikeramat-tmp-org/customrom_features/raw/master/screenshots/lockscreen/visualizer/Screenshot_20200912-234756.png)
 ## Media art
-**[Commits topic (LineageOS)](https://review.lineageos.org/q/topic:"ten-network-traffic"+(status:open%20OR%20status:merged))**
+**[Commits topic (LineageOS)](https://review.lineageos.org/q/topic:%22ten-ls-media-art%22+(status:open%20OR%20status:merged))**
 
 **[Commits topic (AOSiP)](https://review.aosip.dev/q/topic:%22ls-art-filter%22+(status:open%20OR%20status:merged))**
 
